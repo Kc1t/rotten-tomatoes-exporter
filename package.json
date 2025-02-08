@@ -1,0 +1,16 @@
+{
+  "name": "rotten-tomatoes-exporter",
+  "version": "1.0.0",
+  "description": "Este projeto é um scraper que utiliza o Playwright para coletar os dados das suas avaliações de filmes no Rotten Tomatoes, uma das maiores plataformas de ratings de filmes e séries, mas não necessariamente a mais utilizada. Se você deseja exportar suas avaliações para uso próprio, este projeto facilita o processo extraindo essas informações diretamente do seu perfil.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "playwright": "^1.50.1"
+  }
+}
