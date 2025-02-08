@@ -1,6 +1,10 @@
 # RottenTomatoes Scraper
 
-Este projeto é um scraper que utiliza o Playwright para coletar os dados das suas avaliações de filmes no Rotten Tomatoes, uma das maiores plataformas de ratings de filmes e séries, mas não necessariamente a mais utilizada. Se você deseja exportar suas avaliações para uso próprio, este projeto facilita o processo extraindo essas informações diretamente do seu perfil.
+Este projeto é um scraper que utiliza o Playwright para coletar os dados das suas avaliações de filmes no Rotten Tomatoes, uma das maiores plataformas de ratings de filmes e séries, mas não necessariamente a mais utilizada nos de dias de hoje. Se você deseja exportar suas avaliações para uso próprio, este projeto facilita o processo extraindo essas informações diretamente do seu perfil.
+
+
+https://github.com/user-attachments/assets/9c9068eb-75cb-41fa-9301-0e130b261346
+
 
 ## 📁 Estrutura do Projeto
 
